@@ -4,10 +4,17 @@ OSMのメモなどをつらつらと書きます
 
 ## Circle.jsについて
 OSM というかOpenLayersで半径をメートルにした「美しい」円を書きたかった
+
+Openlayers Circle radius in meters と何度検索したことか！！！
+
 Polygon？ めんどくさい
+
 座標で線引き？？ 中心座標だけもってたい私にやさしくない
+
 そんなわけで手計算で無理矢理近似値を作りました
+
 それっぽい円が書けます
+
 縮尺対応は下記
 
 |Zoom Level|半径約100mを表すpointRadius|
